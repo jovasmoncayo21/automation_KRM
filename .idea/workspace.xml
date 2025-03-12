@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1687560d-4685-4a19-8916-8b548fa932c1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2kAOiYTB6Gsa6EZR6vvcVPD4Hy9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.Main (1).executor": "Run",
+    "JUnit.Main.flujoPrincipal (1).executor": "Run",
+    "JUnit.Main.flujoPrincipal.executor": "Run",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Tools/Automation_KRM",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Test" />
+      <recent name="Utilerias" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Tools\Automatizacion con Selenium Webdriver\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Main.flujoPrincipal">
+    <configuration name="Main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test.Main" />
+      <option name="MAIN_CLASS_NAME" value="Test.Main.Main" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.Main" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main.flujoPrincipal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test.Main" />
+      <option name="MAIN_CLASS_NAME" value="Test.Main.Main" />
+      <option name="METHOD_NAME" value="flujoPrincipal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main.flujoPrincipal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test.Main" />
+      <option name="MAIN_CLASS_NAME" value="Test.Main.Main" />
+      <option name="METHOD_NAME" value="flujoPrincipal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main.flujoPrincipal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.Main" />
+      <option name="METHOD_NAME" value="flujoPrincipal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main.flujoPrincipal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.Main" />
+      <option name="METHOD_NAME" value="flujoPrincipal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Main.flujoPrincipal" />
+        <item itemvalue="JUnit.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1687560d-4685-4a19-8916-8b548fa932c1" name="Default Changelist" comment="" />
+      <created>1722723158202</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722723158202</updated>
+      <workItem from="1737570742817" duration="12617000" />
+      <workItem from="1738082010705" duration="710000" />
+      <workItem from="1738082982622" duration="25000" />
+      <workItem from="1738083025201" duration="8860000" />
+      <workItem from="1738160538391" duration="1323000" />
+      <workItem from="1738162292291" duration="7924000" />
+      <workItem from="1738175390708" duration="13354000" />
+      <workItem from="1738255519285" duration="5265000" />
+      <workItem from="1738339667288" duration="274000" />
+      <workItem from="1738340125657" duration="35000" />
+      <workItem from="1739215836863" duration="2248000" />
+      <workItem from="1739226562767" duration="2749000" />
+      <workItem from="1739832174606" duration="122000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
